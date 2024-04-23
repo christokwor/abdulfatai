@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form>
+      Firstname
+      <input type="text" name="firstname" />Firstname<br />
+      Lastname
+      <input type="text" name="Lastname" />Lastname<br />
+      Password
+      <input type="password" name="password" />password<br />
+      Email
+      <input type="email" name="email" required="@gmail.com" /><br />
+      Date
+      <input type="date" name="date" /><br />
+      <input type="submit" name="submit" />
+    </form>
+  </body>
+</html>
